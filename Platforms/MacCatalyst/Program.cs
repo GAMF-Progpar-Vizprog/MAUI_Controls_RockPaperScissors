@@ -1,7 +1,7 @@
 ﻿using ObjCRuntime;
 using UIKit;
 
-namespace MAUIRockPaperScissors
+namespace MAUI_Controls_RockPaperScissors
 {
     public class Program
     {

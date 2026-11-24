@@ -1,6 +1,6 @@
 ﻿using Foundation;
 
-namespace MAUIRockPaperScissors
+namespace MAUI_Controls_RockPaperScissors
 {
     [Register("AppDelegate")]
     public class AppDelegate : MauiUIApplicationDelegate

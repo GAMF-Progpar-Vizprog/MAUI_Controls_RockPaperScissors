@@ -2,7 +2,7 @@ using System;
 using Microsoft.Maui;
 using Microsoft.Maui.Hosting;
 
-namespace MAUIRockPaperScissors
+namespace MAUI_Controls_RockPaperScissors
 {
     internal class Program : MauiApplication
     {

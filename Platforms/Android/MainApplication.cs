@@ -1,7 +1,7 @@
 ﻿using Android.App;
 using Android.Runtime;
 
-namespace MAUIRockPaperScissors
+namespace MAUI_Controls_RockPaperScissors
 {
     [Application]
     public class MainApplication : MauiApplication

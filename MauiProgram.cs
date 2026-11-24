@@ -1,6 +1,6 @@
 ﻿using Microsoft.Extensions.Logging;
 
-namespace MAUIRockPaperScissors
+namespace MAUI_Controls_RockPaperScissors
 {
     public static class MauiProgram
     {

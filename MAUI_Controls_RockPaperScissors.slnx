@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="MAUI_Controls_RockPaperScissors.csproj">
+    <Deploy />
+  </Project>
+</Solution>
